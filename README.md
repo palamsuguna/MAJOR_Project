@@ -140,12 +140,8 @@ This project helps improve healthcare accessibility in underserved regions by en
 
 ---
 
-# 👨‍💻 Authors
+# 👨‍💻 Author
 - Palam Suguna
-- Shaik Meheq Kausar
-
-## Guided By
-Dr. Ganji Ramanjaiah
 
 Department of Computer Science & Engineering (Data Science)  
 R.V.R. & J.C. College of Engineering (Autonomous)
